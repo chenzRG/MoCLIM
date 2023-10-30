@@ -11,9 +11,10 @@ This paper introduced MoCLIM, a multi-omics contrastive learning framework for a
 ---------------------------------------------------------------------------------------------------------------------
 
 
-MoCLIM|  
+MoCLIM|
 :-------------------------:|
 | <img width="430" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
+Cancer Subtyping Examples|
 | <img width="430" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
 
 
