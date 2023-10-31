@@ -51,13 +51,13 @@ Please consider citing it accordingly based on your need:
 ## Citation
 If you find this code useful in your research, please consider citing:
 
-    @ARTICLE{TNSREchen23,
-  	author={Chen, Zheng and Yang, Ziwei and Zhu, Lingwei and Chen, Wei and Tamura, Toshiyo and Ono, Naoaki and Altaf-Ul-Amin, Md and Kanaya, Shigehiko and Huang, Ming},
-  	journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-  	title={Automated Sleep Staging via Parallel Frequency-Cut Attention}, 
+    @inproceedings{MoCLIM,
+  	author={Yang, Ziwei and Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi},
+  	booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management}, 
+  	title={MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling}, 
   	year={2023},
-  	volume={31},
-  	pages={1974-1985}}
+  	series = {CIKM '23}
+  	pages={2895–2905}}
 
 
 
