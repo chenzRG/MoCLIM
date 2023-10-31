@@ -40,15 +40,12 @@ If you're using other than CUDA 10.2, you may need to install PyTorch for the pr
 ## Citation
 Please consider citing it accordingly based on your need:
 
-@inproceedings{10.1145/3583780.3614970,
+@inproceedings{MoCLIM,
 author = {Yang, Ziwei and Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi},
 title = {MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling},
 year = {2023},
-isbn = {9798400701245},
-doi = {10.1145/3583780.3614970},
 pages = {2895–2905},
 booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
-numpages = {11},
 series = {CIKM '23}
 }
 
