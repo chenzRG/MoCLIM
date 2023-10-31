@@ -36,18 +36,20 @@ pip install -r requirements.txt
 If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
 
 
-
 ## Citation
 Please consider citing it accordingly based on your need:
 
-@inproceedings{MoCLIM,
-author = {Yang, Ziwei and Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi},
-title = {MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling},
-year = {2023},
-pages = {2895–2905},
-booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
-series = {CIKM '23}
-}
+   @inproceedings{MoCLIM,
+    author = {Yang, Ziwei and Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi},
+    title = {MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling},
+    year = {2023},
+    pages = {2895–2905},
+    booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+    series = {CIKM '23}
+    }
+
+
+
 
 
 
