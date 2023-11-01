@@ -15,22 +15,26 @@ MoCLIM Framework Overview|
 Cancer Subtyping Examples|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
 
-## Description
 
-You can find the implementation and details in the respective files of "[MoCLIM_main](https://github.com/yangziwei96/CIKM23/blob/main/MoCLIM_main.ipynb)" 
+## Implementation Details
+
+The implementation details and code can be found in the "[MoCLIM_main](https://github.com/yangziwei96/CIKM23/blob/main/MoCLIM_main.ipynb)". 
+Make sure to follow the setup instructions below to run the code successfully.
+
 
 ## Setup
 
-You can install the required dependencies using pip.
+To set up the project environment, install the required dependencies using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
+If you're using a CUDA version other than 10.2, please ensure PyTorch is installed for the appropriate CUDA version. Refer to the [instructions](https://pytorch.org/get-started/locally/) for detailed instructions.
+
 
 ## Citation
-Please consider citing it accordingly based on your need:
+If you find our work helpful for your research, please consider citing our paper:
 
     @inproceedings{MoCLIM,
   	author={Yang, Ziwei and Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi},
