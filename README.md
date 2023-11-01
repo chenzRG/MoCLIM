@@ -1,6 +1,6 @@
 # MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling
 
-This repository contains the implementations of our research work presented at the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23).
+This repository contains the implementations of MoCLIM, presented at the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23).
 
 Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970].
 
