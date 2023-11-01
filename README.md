@@ -1,6 +1,5 @@
 This repository contains implementations of our research works of CIKM23.
 
-
 # MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling
 Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970]
 
@@ -10,20 +9,15 @@ This paper introduced MoCLIM, a multi-omics contrastive learning framework for a
 
 ---------------------------------------------------------------------------------------------------------------------
 
-
 MoCLIM Framework Overview|
 :-------------------------:|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
 Cancer Subtyping Examples|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
 
-
-
 ## Description
 
 You can find the implementation and details in the respective files of "[MoCLIM_main](https://github.com/yangziwei96/CIKM23/blob/main/MoCLIM_main.ipynb)" 
-
-
 
 ## Setup
 
@@ -34,8 +28,6 @@ pip install -r requirements.txt
 ```
 
 If you're using other than CUDA 10.2, you may need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
-
-
 
 ## Citation
 Please consider citing it accordingly based on your need:
@@ -48,12 +40,4 @@ Please consider citing it accordingly based on your need:
   	series = {CIKM '23}
   	pages={2895–2905}}
 
-
-
-
-
-
-
-
-
-
+Thank you for your interest in our research. For any questions or inquiries, feel free to reach out to us.
