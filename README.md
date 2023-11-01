@@ -1,7 +1,8 @@
-This repository contains implementations of our research works of CIKM23.
-
 # MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling
-Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970]
+
+This repository contains the implementations of our research work presented at the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23).
+
+Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970].
 
 Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai. 2023. MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 2895–2905. 
 
