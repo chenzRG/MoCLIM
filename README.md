@@ -4,9 +4,7 @@ This repository contains the implementations of our research work presented at t
 
 Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970].
 
-Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai. 2023. MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 2895–2905. 
-
-This paper introduced MoCLIM, a multi-omics contrastive learning framework for accurate cancer subtype identification. MoCLIM treats multi-omics integration as multi-modal learning and independently extracts representations from each type of omics data. These representations are then combined using a contrastive learn- ing framework anchored in transcriptomics.
+MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai, introduces a novel approach to cancer subtype identification using multi-omics contrastive learning with omics-inference modeling. 
 
 ---------------------------------------------------------------------------------------------------------------------
 
