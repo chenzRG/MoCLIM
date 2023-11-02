@@ -13,15 +13,15 @@ MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakur
 
 MoCLIM Framework Overview|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
 
 ## Results & Biomedical Evaluations
 
 Cancer Subtyping Examples|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
 Gene Set Enrichment Analysis|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
 
 
 ## Implementation Details
