@@ -15,23 +15,23 @@ MoCLIM Framework Overview|
 
 Omics Data for Cancer Subtyping|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/bg.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/bg.png">
 
 
 ## Motivation
 
 Biological Observation: Transcriptomics as a Focal Point|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/ob.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/ob.png">
 
 
 ## Results & Biomedical Evaluations
 
 Cancer Subtyping Examples|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
 Gene Set Enrichment Analysis Examples|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
+| <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
 
 
 ## Implementation Details
