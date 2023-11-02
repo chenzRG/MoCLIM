@@ -8,7 +8,7 @@ MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakur
 
 MoCLIM Framework Overview|
 :-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
+| <img width="1000" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
 
 ---------------------------------------------------------------------------------------------------------------------
 ## Background
