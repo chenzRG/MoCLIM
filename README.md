@@ -17,6 +17,8 @@ An overview of the MoCLIM workflow: (1) MoCLIM takes multi-omics data as input. 
 
 ## Background
 
+Each specific cancer comprises multiple subtypes. These subtypes refer to groups of patients with specific biochemical mechanisms that require tailored therapeutic strategies.
+
 Different cancer subtypes often share the same morphological traits. This can result in high similarity in histopathological images. However,  the differences can be found across various omics levels.
 
 Omics Data for Cancer Subtyping|
