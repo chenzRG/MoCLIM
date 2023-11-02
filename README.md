@@ -28,6 +28,7 @@ Omics Data for Cancer Subtyping|
 
 We position MoCLIM in a biological axiom: genome-wide transcriptomics analysis is the mainstay of omics studies. 
 
+In this schematic diagram, various omics information, including genomics (DNA) and proteomics (protein) data, are interconnected through processes like gene expression and regulation at the mRNA (transcriptomics) level.
 
 Biological Observation: Transcriptomics as a Focal Point|
 :-------------------------:|
