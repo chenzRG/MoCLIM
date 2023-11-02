@@ -27,7 +27,11 @@ Biological Observation: Transcriptomics as a Focal Point|
 | <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/ob.png">
 
 
-## Results & Biomedical Evaluations
+## Cancer Subtyping Results & Biomedical Evaluations
+
+Experimental results on six cancer datasets demonstrate that our approach significantly improves data fit and subtyping performance in fewer high-dimensional cancer instances. 
+
+Moreover, our framework incorporates various medical evaluations as the final component, providing high interpretability in medical analysis.
 
 Cancer Subtyping Examples|
 :-------------------------:|
