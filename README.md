@@ -6,6 +6,10 @@ Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970].
 
 MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai, introduces a novel approach to cancer subtype identification using multi-omics contrastive learning with omics-inference modeling. 
 
+MoCLIM Framework Overview|
+:-------------------------:|
+| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
+
 ---------------------------------------------------------------------------------------------------------------------
 ## Background
 
@@ -19,13 +23,6 @@ Omics Data for Cancer Subtyping|
 Biological Observation: Transcriptomics as a Focal Point|
 :-------------------------:|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/ob.png">
-
-
-## Overview
-
-MoCLIM Framework Overview|
-:-------------------------:|
-| <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/OV.png">
 
 
 ## Results & Biomedical Evaluations
