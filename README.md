@@ -15,6 +15,8 @@ MoCLIM Framework Overview|
 
 ## Background
 
+Different cancer subtypes often share the same morphological traits. This can result in high similarity in histopathological images. However,  the differences can be found across various omics levels.
+
 Omics Data for Cancer Subtyping|
 :-------------------------:|
 | <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/bg.png">
