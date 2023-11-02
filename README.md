@@ -9,7 +9,7 @@ MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakur
 ---------------------------------------------------------------------------------------------------------------------
 ## Background
 
-Background|
+Omics Data for Cancer Subtyping|
 :-------------------------:|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/bg.png">
 
