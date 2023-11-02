@@ -26,8 +26,7 @@ Omics Data for Cancer Subtyping|
 
 ## Motivation
 
-We put MoCLIM in a biological axiom: genome-wide transcriptomics is the focal point of omics studies. 
-
+We position MoCLIM in a biological axiom: genome-wide transcriptomics analysis is the mainstay of omics studies. 
 
 
 Biological Observation: Transcriptomics as a Focal Point|
