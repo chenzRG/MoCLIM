@@ -35,6 +35,7 @@ Cancer Subtyping Examples|
 Gene Set Enrichment Analysis Examples|
 | <img width="700" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
 
+---------------------------------------------------------------------------------------------------------------------
 
 ## Implementation Details
 
