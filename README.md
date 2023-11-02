@@ -16,7 +16,7 @@ Background|
 
 ## Motivation
 
-Motivation|
+Biological Observation: Transcriptomics as a Focal Point|
 :-------------------------:|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/ob.png">
 
@@ -33,7 +33,7 @@ MoCLIM Framework Overview|
 Cancer Subtyping Examples|
 :-------------------------:|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/6_subtype.png">
-Gene Set Enrichment Analysis|
+Gene Set Enrichment Analysis Examples|
 | <img width="800" alt="image" src="https://github.com/yangziwei96/MoCLIM/blob/main/gsea.png">
 
 
