@@ -4,6 +4,8 @@ This repository contains the implementations of MoCLIM, presented at the 32nd AC
 
 Original paper: [https://dl.acm.org/doi/10.1145/3583780.3614970].
 
+Presentation\&Slide: [https://youtu.be/26uYBmsyiLM]
+
 MoCLIM, developed by Ziwei Yang, Zheng Chen, Yasuko Matsubara, and Yasushi Sakurai, introduces a novel approach to cancer subtype identification using multi-omics contrastive learning with omics-inference modeling. 
 
 MoCLIM Framework Overview|
